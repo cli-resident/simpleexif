@@ -1,6 +1,6 @@
-# Python EXIF Viewer
+# Python EXIF Editor
 
-Python EXIF Viewer is a simple graphical application built with Python that allows you to view and edit EXIF metadata from images.
+Python EXIF Editor is a simple graphical application built with Python that allows you to view and edit EXIF metadata from images.
 
 ## Installation
 
